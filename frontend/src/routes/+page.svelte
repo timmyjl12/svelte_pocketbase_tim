@@ -30,6 +30,6 @@
 <div class="break-all">
     <h1 class="flex justify-center underline">Collections</h1>
         <div class="flex justify-center mt-4">
-            <p> Hello!</p>
+            <p> Hello{' '+$page.data.email}!</p>
         </div>
 </div>
